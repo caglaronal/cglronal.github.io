@@ -20,3 +20,6 @@ keywords: caglaronal.com
       </ul>
   </div>
 </div>
+
+<meta http-equiv="refresh" content="0;url=https://www.caglaronal.com/" />
+
