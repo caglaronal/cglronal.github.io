@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: <li><a href="caglaronal.com">caglaronal.com</a></li>
-description: caglaronal.com
-keywords: caglaronal.com
+title: <a href="https://www.caglaronal.com/">caglaronal.com</a>
+description: <a href="https://www.caglaronal.com/">caglaronal.com</a>
+keywords: <a href="https://www.caglaronal.com/">caglaronal.com</a>
 ---
 
 ---
@@ -13,8 +13,8 @@ keywords: caglaronal.com
 
     <div class="row-fluid">
         <div class="span5">
-            caglaronal.com<br/>
-            caglaronal.com<br/>
+            https://www.caglaronal.com/<br/>
+            https://www.caglaronal.com/m<br/>
         </div>
 
         
@@ -22,8 +22,8 @@ keywords: caglaronal.com
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="caglaronal.com">caglaronal.com</a></li>
-          <li><a href="caglaronal.com">caglaronal.com</a></li>
+          <li><a href="https://www.caglaronal.com/">caglaronal.com</a></li>
+          <li><a href="https://www.caglaronal.com/">caglaronal.com</a></li>
       </ul>
   </div>
 </div>
